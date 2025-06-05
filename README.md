@@ -1,12 +1,24 @@
 # React + Vite
+# 📝 To-Do List App – Kuraz Internship Screening Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is **To-Do List Web Application** built using **React** and styled with **Tailwind CSS**. It was developed as part of the **Kuraz Internship screening process**. The app allows users to add, search, check, and delete tasks.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add new tasks
+- 🔍 Search through your tasks
+- ✔️ Mark tasks as complete
+- 🗑️ Delete tasks with a smooth UI
+- 🎨 Clean and responsive UI with Tailwind CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **JSON Server** – Fake REST API for demo backend
+- **React Icons** – For SVG icons
+- **useEffect / useState** – React Hooks for state and side effects
+
+
+
